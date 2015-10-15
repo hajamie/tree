@@ -45,7 +45,7 @@
 		<div id="wrapper-menu">
 			<div id="menu">
 				<ul>
-					<li><a href="<?php echo $subdirectory ?>" title="Home">Home</a></li>
+					<li><a href="<?php echo $subdirectory ?>/" title="Home">Home</a></li>
 					<li><a href="<?php echo $subdirectory ?>/what-is-a-tree.html" title="What is a tree">What is a tree?</a></li>
 					<li><a href="<?php echo $subdirectory ?>/kids-tree-identification.html" title="A kids guide to tree identification">A kids guide to tree identification</a></li>
 					<li><a href="<?php echo $subdirectory ?>/leaf-tree-identification.html" title="Tree identification by leaf shape">Tree identification by leaf shape</a></li>
