@@ -1,6 +1,6 @@
 <?php
 	// Subdirectory site is in.  Set to "" if in root.  
-	$subdirectory = "/tree";
+	$subdirectory = "";
 	
 	header ('Content-Type: text/html; charset=iso-8859-1');
 	$page = "";
