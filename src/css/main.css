@@ -87,7 +87,15 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+/*overall things*/
+.rightAlign {
+	text-align: right;
+}
+.centreAlign {
+    text-align: center;
+}
+   
+/*specific*/
 body {
 	margin: 0 0 1em 0;
 	padding: 0;
@@ -179,6 +187,13 @@ body {
 }
 
 * html #content { padding-top: 1.8em; } /* Set padding top in IE to 20px */
+
+.google {
+	float: right;
+}
+.stretchToFooter {
+	clear: both;
+}
 
 #footer {
 	margin: 0 auto;
