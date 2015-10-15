@@ -1,0 +1,9 @@
+<h2>The Benefits of Trees</h2>
+
+Trees are something that we often take for granted because we really don’t have to think much about them because rain or shine, there they are. It isn’t until a tree dies or has to be cut down that we might take notice of it and realize how much we appreciated its presence. Face it, when you are talking about a tree it’s easy to overlook its beauty and all the benefits it brings to our environment and us.
+<br /><br />
+The most obvious benefit of trees is the clean air and oxygen they put into the air. Without trees, our air quality wouldn’t be near what it is. At a time where our pollution is way out of hand anyway, it’s hard to imagine what our lives would be like without all the plants and trees helping to purify the air for us. When you think about the fact that trees just might help us breathe better, it’s a big reason to really take the time to care for our trees, giving them the loving care that they need to stay healthy and strong, and keep safeguarding our health in a number of ways.
+<br /><br />
+Another benefit of having trees is that they bring us many wonderful fruits. Without trees, we wouldn’t be able to eat and enjoy many of the fruits that we have come to be very familiar with over the years. Year after year there are trees that provide us with apples, oranges, grapefruit, peaches, apricots, pears, cherries, and even more. There are so many fruits that come off of trees that we would be lost without them! Part of our dietary plan would be completely wiped out if we suddenly didn’t have any more trees.
+<br /><br />
+Trees also provide many animals with home and respite from the elements. Without trees, many of nature’s most beautiful creatures wouldn’t have a safe place to go to have their young, to rest, and reproduce. Without these animals we wouldn’t have the balance in nature that we currently do, and we all know how important the natural balance is. 

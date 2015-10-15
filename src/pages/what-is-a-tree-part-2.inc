@@ -1,0 +1,5 @@
+Trees also provide homes for many animals including birds and other small animals. Trees are also a source of protection for other animals, and they provide shelter from winds and rains as well. Trees are also a major source of food, as they bare many types of fruits that provide humans and other animals with sustenance. You can find fruit on some sort of tree almost any time of the year, and that is quite amazing.
+<br /><br />
+So, trees only look simple. They are actually quite a complex structure that provides and is capable of more than meets the eye. Trees are unique because they are the sole source of wood, they provide fruit, they provide shelter from the winds, rain, and sun, and they even provide food. It’s hard to believe we can look past trees without taking into account all that they really are, isn’t it?
+<br /><br />
+So, there you have it. A tree is simply a large woody plant that stems from one trunk and has a system of branches upon which leaves grow. It doesn’t seem so complicated, but when you take a look at all that a tree provides and consider that there are more than one hundred thousand species, the tree is quite impressive.  
