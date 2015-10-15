@@ -1,0 +1,6 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+RewriteCond %{REQUEST_URI} /?(.*)\.html
+RewriteRule ^.*$ index.php?page=%1 [NC]
+RewriteRule index.html index.php [NC]
