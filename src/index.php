@@ -11,6 +11,11 @@
 <!doctype html>
 <html class="no-js" lang="">
     <head>
+<script type='text/javascript'>
+	DY = {scsec : 8766511 ,API: function(){(DY.API.actions = DY.API.actions || []).push(arguments)}};
+</script>
+<script type='text/javascript' src='//cdn.dynamicyield.com/api/8766511/api_dynamic.js'></script>
+<script type='text/javascript' src='//cdn.dynamicyield.com/api/8766511/api_static.js'></script>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Tree Identification<?php
@@ -38,7 +43,7 @@
 
 		<div id="wrapper-header">
 			<div id="header">
-				<h1>Tree Identification</h1>
+				<h1><a href="http://tree-identification.com/">Tree Identification</a></h1>
 			</div>
 		</div>
 

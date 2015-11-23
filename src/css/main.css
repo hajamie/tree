@@ -129,6 +129,11 @@ body {
 	letter-spacing: -1px;
 }
 
+#header h1 a {
+	text-decoration: inherit;
+	color: inherit;
+}
+
 #wrapper-menu {
 	background: #88ac0b url('../img/menu-background.png') top left repeat-x;
 	width: 75%;
